@@ -7,7 +7,16 @@ table, tr
 
 	}
 
-table, tr, td, th
+table, th
+	{
+		border: 1px solid black;
+		border-collapse: collapse;
+		padding: 5px;
+		width: 30%;
+
+	}
+
+table, td
 	{
 		border: 1px solid black;
 		border-collapse: collapse;
