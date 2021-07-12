@@ -1,6 +1,6 @@
 body
 	{
-		background-image: images/bgallery.jpg;
+		background-image: url ('images/bgallery.jpg');
 	}
 
 a:link, a:visited
