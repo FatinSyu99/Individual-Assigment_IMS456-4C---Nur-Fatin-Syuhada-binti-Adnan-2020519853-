@@ -1,3 +1,8 @@
+body
+	{
+		background-image: url (images/ii.jpeg);
+	}
+
 a:link, a:visited
 	{
 		background-color: rose;
